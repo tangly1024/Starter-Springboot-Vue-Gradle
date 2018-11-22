@@ -1,0 +1,4 @@
+rootProject.name = 'social'
+include 'server'
+include 'web'
+
